@@ -41,4 +41,4 @@ front-end/.vercel
 front-end/next-env.d.ts
 
 #backend
-back-end/test
+back-end/test.js
