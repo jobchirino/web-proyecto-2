@@ -41,4 +41,4 @@ yarn-error.log*
 next-env.d.ts
 
 #backend
-../back-end/test-a-ignorar.txt
+../back-end/test-a-ignorar
